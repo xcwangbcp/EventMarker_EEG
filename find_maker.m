@@ -1,6 +1,7 @@
 % clear
 %%% read the edf file 
-%%% how to design the marker's position
+%%% how to design the marker's position,so far i have no idea, 
+% one solution is :need to find out all the markers and delete them by some critiria
 cfg            = [];
 cfg.dataset    = 'Test_4.edf';
 cfg.continuous = 'yes';
